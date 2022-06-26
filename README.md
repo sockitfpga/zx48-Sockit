@@ -1,3 +1,9 @@
+# Alternative ZX Spectrum 48K for Sockit
+
+Ported from https://github.com/Kyp069/zx48-MiSTer according from Somhi sockit template.
+
+Follows original readme file.
+
 <h3>Alternative ZX Spectrum 48K FPGA implementation for MiSTer</h3>
 
 <p>Implements a standard ZX Spectrum 48K computer and the follwing hardware:</p>
